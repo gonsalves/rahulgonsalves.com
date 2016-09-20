@@ -1,14 +1,6 @@
 ---
-id: 14
-title: 'Acknowledging the Elephant in the Room &#8211; Moving Toward Media Accessibility'
-date: 2011-07-08T12:13:57+00:00
-author: Rahul Gonsalves
-excerpt: 'Accessibility evangelists have long touted the ease with which inaccessible online content may be made accessible - merely convert your nasty, table-based website to spanking clean HTML and CSS, sprinkle on a few skip links and and you were home scot free. However, the accessibility of online media - videos, audio and interactive presentations which combine the two - has been carefully ignored and cannot be solved via technical means alone.'
-layout: post
-guid: http://rahulgonsalves.com/?p=14
-permalink: /accessibility/acknowledging-the-elephant-in-the-room-moving-toward-media-accessibility/
-categories:
-  - Accessibility
+title: "Acknowledging the Elephant in the Room &#8211; Moving Toward Media Accessibility"
+description: "Accessibility evangelists have long touted the ease with which inaccessible online content may be made accessible - merely convert your nasty, table-based website to spanking clean HTML and CSS, sprinkle on a few skip links and and you were home scot free. However, the accessibility of online media - videos, audio and interactive presentations which combine the two - has been carefully ignored and cannot be solved via technical means alone."
 ---
 > Note: [This article was originally written in August 2008, for A3](http://a3.barrierbreak.com/media2008.php), a newsletter published by [Barrier Break Technologies Ltd](http://www.barrierbreak.com/).
 
