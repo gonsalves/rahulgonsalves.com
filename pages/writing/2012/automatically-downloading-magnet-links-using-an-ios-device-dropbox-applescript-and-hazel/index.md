@@ -1,13 +1,8 @@
 ---
 id: 21
-title: Automatically downloading .magnet links using an iOS device, Dropbox, Applescript and Hazel
+title: "Automatically downloading .magnet links using an iOS device, Dropbox, Applescript and Hazel"
 date: 2012-05-05T15:04:03+00:00
-author: Rahul Gonsalves
 layout: post
-guid: http://rahulgonsalves.com/?p=21
-permalink: /automation/automatically-downloading-magnet-links-using-an-ios-device-dropbox-applescript-and-hazel/
-categories:
-  - Automation
 ---
 People who have had the misfortune of encountering me anytime in the last two months will know that I have been on a computer automation spree; to that end have automated the process of downloading, encoding, renaming and filing all manner of media files &#8211; both audio and video. However, there was one chink in this process &#8211; which I spent the morning fixing, and have, for your viewing pleasure dear reader, outlined below.
 

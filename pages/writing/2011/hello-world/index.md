@@ -1,5 +1,5 @@
 ---
-title: Hello world!
+title: "Hello world!"
 date: 2011-04-04T17:34:12+00:00
 author: Rahul Gonsalves
 layout: post

@@ -1,14 +1,7 @@
 ---
-id: 18
-title: Building Accessible Websites with HTML5, CSS3 and Related Technologies
+title: "Building Accessible Websites with HTML5, CSS3 and Related Technologies"
 date: 2011-07-31T10:58:06+00:00
-author: Rahul Gonsalves
 layout: post
-guid: http://rahulgonsalves.com/?p=18
-permalink: /accessibility/building-accessible-websites-with-html5-css3-and-related-technologies/
-categories:
-  - Accessibility
-  - Speaking
 ---
 Techshare 2008 was perhaps the first conference in India on Electronic Accessibility for People with Disabilities. For me, personally, Techshare was an important landmark as it was the first time that I met and engaged with the Indian accessibility sector &#8212; before that, I was just a name on a mailing list!
 

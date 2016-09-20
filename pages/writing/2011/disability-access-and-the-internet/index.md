@@ -1,19 +1,9 @@
 ---
-id: 16
-title: Disability Access and the Internet
+title: "Disability Access and the Internet"
 date: 2011-07-08T12:56:34+00:00
 author: Rahul Gonsalves
-excerpt: |
-  Anybody who has ever used the internet will agree that it is an immensely useful tool; it acts as a constantly updated storehouse of information, provides societal information (and is thus an agent of democracy), facilitates interaction between people and provides recreational possibilities.
-  
-  For people with impairments, the internet is doubly useful; many impairments make simple tasks, social interaction and participation in civil society extremely difficult, expensive or both. Thus access to the internet for all, regardless of ability, is a prerequisite for a democratic society. However, poor coding practices and a lack of awareness on the part of web content authors on how to design for accessibility together render  large portions of the internet, in its current form, inaccessible to people with impairments.
-  
-  This paper will examine ways in which people with various impairments - both physical and mental - engage with online content, and will demonstrate practical ways in which authors can make online content accessible to people with disabilities.
+description: "This paper will examine ways in which people with various impairments - both physical and mental - engage with online content, and will demonstrate practical ways in which authors can make online content accessible to people with disabilities."
 layout: post
-guid: http://rahulgonsalves.com/?p=16
-permalink: /accessibility/disability-access-and-the-internet/
-categories:
-  - Accessibility
 ---
 > I presented this paper in September 2008 for the National Conference on ICT for People with Disabilities, an event organised by the Computer Society of India. To do: add links and references.
 

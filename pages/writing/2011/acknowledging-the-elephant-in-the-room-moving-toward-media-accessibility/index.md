@@ -1,6 +1,8 @@
 ---
-title: "Acknowledging the Elephant in the Room &#8211; Moving Toward Media Accessibility"
-description: "Accessibility evangelists have long touted the ease with which inaccessible online content may be made accessible - merely convert your nasty, table-based website to spanking clean HTML and CSS, sprinkle on a few skip links and and you were home scot free. However, the accessibility of online media - videos, audio and interactive presentations which combine the two - has been carefully ignored and cannot be solved via technical means alone."
+title: "Acknowledging the Elephant in the Room: Moving Toward Media Accessibility"
+date: 2011-07-8
+layout: post
+description: "Media accessibility is often carefully swept under the carpet; however, there is an urgent need to start addressing it’s absence. Large portions of the internet otherwise risk becoming unavailable to visitors with impairments."
 ---
 > Note: [This article was originally written in August 2008, for A3](http://a3.barrierbreak.com/media2008.php), a newsletter published by [Barrier Break Technologies Ltd](http://www.barrierbreak.com/).
 

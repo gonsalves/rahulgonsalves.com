@@ -1,14 +1,8 @@
 ---
-id: 25
-title: Needles in the Haystack
+title: "Needles in the Haystack"
 date: 2013-01-22T00:27:49+00:00
-author: Rahul Gonsalves
-excerpt: 'In which I talk about the chronic problem of being a tiny design studio -- too much interesting work and far too little time.'
+description: "In which I talk about the chronic problem of being a tiny design studio too much interesting work and far too little time."
 layout: post
-guid: http://rahulgonsalves.com/?p=25
-permalink: /design/needles-in-the-haystack/
-categories:
-  - Design
 ---
 One of the most fun parts of my job is that I get to meet people who are solving interesting, real, problems in new markets on a regular basis. I&#8217;ve had the pleasure of seeing excitement go to idea to design to product and have participated in a small way in a few.
 

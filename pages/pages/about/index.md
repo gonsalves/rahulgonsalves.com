@@ -1,11 +1,8 @@
 ---
 title: "About me"
 layout: page
-path: "/about"
 ---
 
-**Update:**
-  
 I joined hands with some of India&#8217;s best designers to found [Uncommon](http://uncommon.is/). Uncommon is an employee owned services cooperative. We design+build beautiful digital products.
 
 In 2005, I founded [Pixelogue](http://pixelogue.in/), which grew into it&#8217;s current form: a bespoke design studio that builds elegant, accessible and standards-compliant websites which make a big impact.

@@ -1,13 +1,7 @@
 ---
-id: 34
 title: Reflection
 date: 2014-03-10T23:24:38+00:00
-author: Rahul Gonsalves
 layout: post
-guid: http://rahulgonsalves.com/?p=34
-permalink: /uncategorized/reflection/
-categories:
-  - Uncategorized
 ---
 > Do you plan to continue in this job for the foreseeable future?
 
