@@ -1,0 +1,12 @@
+siteTitle = "The Personal Disquiet of Rahul Gonsalves"
+siteDescr = "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+siteAuthor = "Rahul Gonsalves"
+
+siteTelegramUrl = "#"
+siteTwitterUrl = "https://twitter.com/gonsalves_r"
+siteGithubUrl = "#"
+siteEmailUrl = "#"
+siteRssUrl = "#"
+siteVkUrl = "#"
+
+linkPrefix = "/gatsby-starter-lumen"
